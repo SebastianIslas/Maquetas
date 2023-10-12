@@ -1,0 +1,3 @@
+[submodule "garcias-ent"]
+	path = garcias-ent
+	url = https://github.com/samuel-mc/garcias-ent.git
