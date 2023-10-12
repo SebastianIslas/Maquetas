@@ -1,3 +1,18 @@
 [submodule "garcias-ent"]
 	path = garcias-ent
 	url = https://github.com/samuel-mc/garcias-ent.git
+[submodule "web-proyects"]
+	path = web-proyects
+	url = https://github.com/samuel-mc/web-proyects.git
+[submodule "atend-back"]
+	path = atend-back
+	url = https://github.com/samuel-mc/atend-back.git
+[submodule "life-experts"]
+	path = life-experts
+	url = https://github.com/samuel-mc/life-experts.git
+[submodule "indexyty"]
+	path = indexyty
+	url = https://github.com/samuel-mc/indexyty.git
+[submodule "bje-local"]
+	path = bje-local
+	url = https://github.com/samuel-mc/bje-local.git
