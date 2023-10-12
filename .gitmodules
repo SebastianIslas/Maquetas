@@ -16,3 +16,21 @@
 [submodule "bje-local"]
 	path = bje-local
 	url = https://github.com/samuel-mc/bje-local.git
+[submodule "olk"]
+	path = olk
+	url = https://github.com/samuel-mc/olk.git
+[submodule "pergolas"]
+	path = pergolas
+	url = https://github.com/samuel-mc/pergolas.git
+[submodule "mym"]
+	path = mym
+	url = https://github.com/samuel-mc/mym.git
+[submodule "nunezyf"]
+	path = nunezyf
+	url = https://github.com/samuel-mc/nunezyf.git
+[submodule "lit-capital"]
+	path = lit-capital
+	url = https://github.com/samuel-mc/lit-capital.git
+[submodule "tanko"]
+	path = tanko
+	url = https://github.com/samuel-mc/tanko.git
