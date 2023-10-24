@@ -34,3 +34,6 @@
 [submodule "tanko"]
 	path = tanko
 	url = https://github.com/samuel-mc/tanko.git
+[submodule "agrosar"]
+	path = agrosar
+	url = https://github.com/samuel-mc/agroasar.git
